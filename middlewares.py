@@ -1,6 +1,3 @@
-"""
-🛡️ Middlewares — Throttling & Auto-register
-"""
 import time
 import logging
 from typing import Any, Awaitable, Callable, Dict
