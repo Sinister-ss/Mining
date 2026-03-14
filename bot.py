@@ -51,7 +51,7 @@ async def main():
     logger.info("⛏️  MINING BOT STARTING...")
     logger.info("=" * 50)
 
-    if not BOT_TOKEN or BOT_TOKEN == "YOUR_BOT_TOKEN_HERE":
+    if not BOT_TOKEN or BOT_TOKEN == "8660124702:AAEAqsXsedrtx3wS6nbAtsHnKa6fOqTZ76E":
         logger.error("❌ BOT_TOKEN not set! Check your environment variables.")
         return
 
